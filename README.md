@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi there, I'm B. Chiranjeevi Mukesh 👋
 
-<!--
-**chiranjeevi-ds26/Chiranjeevi-ds26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Working Professional → Data Analytics
 
-Here are some ideas to get you started:
+I'm a working professional currently transitioning into the field of Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a background in Computer Science and I'm currently building my skills in data analysis through structured learning, hands-on practice, assignments, and projects.
+
+My goal is to develop strong practical skills and build a genuine Data Analytics portfolio that demonstrates my ability to work with data and communicate insights.
+
+---
+
+## 🎯 Career Goal
+
+I am currently exploring career opportunities in:
+
+- Data Analytics
+- Business Analytics
+- Data Science
+
+My primary goal is to become a **Data Analyst** and gradually develop stronger skills in Data Science.
+
+---
+
+## 📚 Currently Learning
+
+I'm at the beginning of my Data Analytics journey.
+
+### Current Focus
+
+- Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+- Data Visualization
+- Power BI
+- Statistics
+
+I am currently building my fundamentals before moving into more advanced projects.
+
+---
+
+## 🛠️ Current Tech Stack
+
+### Currently Learning
+
+- Excel
+
+### Coming Next
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Statistics
+
+---
+
+## 🗺️ My Learning Roadmap
+
+```text
+Excel
+  ↓
+SQL
+  ↓
+Python
+  ↓
+Pandas & NumPy
+  ↓
+Data Visualization
+  ↓
+Power BI
+  ↓
+Statistics
+  ↓
+Exploratory Data Analysis
+  ↓
+Real-World Data Projects
+  ↓
+Advanced Data Analytics
+  ↓
+Data Science
